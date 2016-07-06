@@ -1,0 +1,21 @@
+{
+  "name": "node-exam",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Quick practical exam for node.js candidates",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fibo/node-exam.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fibo/node-exam/issues"
+  },
+  "homepage": "https://github.com/fibo/node-exam#readme"
+}
